@@ -22,3 +22,20 @@ button:hover {
     background-color:greenyellow;
     color: grey;
 }
+
+.btn-primary{
+    margin-top: 10px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: red;
+ } 
+ 
+ .btn-primary:hover{
+     background-color: red;
+ }

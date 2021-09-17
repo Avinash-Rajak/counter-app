@@ -13,3 +13,7 @@ function decrement(){
     countEl.innerText = count
     console.log (count)
 }
+
+function save(){
+    console.log(count)
+}
