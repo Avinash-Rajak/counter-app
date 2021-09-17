@@ -17,9 +17,8 @@ h2{
     font-size: 45px;
 }
 
+
 button:hover {
-    background-color: greenyellow;
+    background-color:greenyellow;
     color: grey;
 }
-
-button:hover
