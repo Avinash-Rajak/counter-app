@@ -39,3 +39,8 @@ button:hover {
  .btn-primary:hover{
      background-color: red;
  }
+
+ p{
+     font-weight: 600;
+     font-size: 24px;
+ }
